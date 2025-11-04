@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "codex-bot": {
+      "command": "node",
+      "args": [
+        "C:\\path\\to\\CODEX-BOT\\build\\index.js"
+      ],
+      "env": {
+        "PROJECT_ROOT": "G:\\JARVIS-X"
+      }
+    }
+  }
+}
